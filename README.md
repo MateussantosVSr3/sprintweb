@@ -1,5 +1,11 @@
 # Projeto de Scripts em JavaScript
 
+- Mateus dos Santos: 558436
+- Lucas Imparato: 554896
+- André de Maria: 556384
+- Victória Moura: 555474
+- Nickolas Cardoso: 557132
+
 Este repositório contém três arquivos JavaScript distintos, cada um implementando funcionalidades específicas para um site. A seguir, uma descrição detalhada de cada um dos arquivos:
 
 ## Arquivo 1: `script_about.js`
