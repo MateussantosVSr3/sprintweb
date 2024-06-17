@@ -36,3 +36,13 @@ Este arquivo contém scripts para um slideshow de calendário e um menu de naveg
 2. **Menu de Navegação**:
 - Adiciona um ouvinte de evento para o clique no ícone de menu (hamburger).
 - Alterna a exibição das seções de navegação (`nav-sections`).
+
+## Arquivo 3: `script_transmission.js`
+
+Este arquivo contém apenas o script para o menu de navegação.
+
+### Funcionalidade
+
+- **Menu de Navegação**:
+  - Adiciona um ouvinte de evento para o clique no ícone de menu (hamburger).
+  - Alterna a exibição das seções de navegação (`nav-sections`).
