@@ -21,3 +21,18 @@ Este arquivo contém scripts para o gerenciamento de um formulário de contato e
 3. **Menu de Navegação**:
    - Adiciona um ouvinte de evento para o clique no ícone de menu (hamburger).
    - Alterna a exibição das seções de navegação (`nav-sections`).
+
+## Arquivo 2: `script.js`
+
+Este arquivo contém scripts para um slideshow de calendário e um menu de navegação.
+
+### Funcionalidades
+
+1. **Slideshow de Calendário**:
+- Adiciona funcionalidades para avançar e retroceder slides.
+- Implementa auto-deslizamento para telas maiores.
+- Ajusta a exibição dos slides com base no tamanho da tela.
+
+2. **Menu de Navegação**:
+- Adiciona um ouvinte de evento para o clique no ícone de menu (hamburger).
+- Alterna a exibição das seções de navegação (`nav-sections`).
